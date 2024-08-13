@@ -27,7 +27,7 @@ document.getElementById('slide1').checked = true;
 
 setInterval(() => {
     nextImage();
-}, 4300);
+}, 5000);
 
 function nextImage() {
     count++;
